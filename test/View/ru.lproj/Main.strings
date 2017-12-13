@@ -1,0 +1,18 @@
+
+/* Class = "UITabBarItem"; title = "Список"; ObjectID = "0zH-vM-kOp"; */
+"0zH-vM-kOp.title" = "Список";
+
+/* Class = "UISearchBar"; placeholder = "Поиск Ресторанов"; ObjectID = "CZu-Bp-udP"; */
+"CZu-Bp-udP.placeholder" = "Поиск Ресторанов";
+
+/* Class = "UINavigationItem"; title = "Рестораны"; ObjectID = "FMt-pa-j7d"; */
+"FMt-pa-j7d.title" = "Рестораны";
+
+/* Class = "UINavigationItem"; title = "Рестораны"; ObjectID = "WyX-XP-3rM"; */
+"WyX-XP-3rM.title" = "Рестораны";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "aOV-wx-8eU"; */
+"aOV-wx-8eU.title" = "Detail";
+
+/* Class = "UINavigationController"; title = "1"; ObjectID = "r2O-Rg-3yP"; */
+"r2O-Rg-3yP.title" = "1";
